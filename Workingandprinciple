@@ -1,0 +1,41 @@
+For building an obstacle avoiding robot we need few materials mentioned below:
+
+Material Required:
+
+A chassis.
+
+Arduino UNO (Brain).
+
+Ultrasonic Sensor (HC-SR04).
+
+Bread Board.
+
+Motor Shield.
+
+Jumping Wired (Male-Female and Female-Male).
+
+Screws.
+
+2* dc battery connectors.
+
+2* 9V Battery.
+
+2* BO Motors.
+
+2* Wheels for the chassis.
+
+Working Principle of Sensor
+
+Obstacle avoiding robot uses Ultrasonic sensor to avoid the entire obstacle coming in its path
+
+with an Arduino UNO, a family member of Arduino used to obtain the wanted operation.
+
+As the front of the robot is attached with an ultra sonic sensor so whenever the robot is going
+
+on the path provided, ultrasonic sensor continuously transmits ultra sonic waves from the
+
+sensor head. Whenever an obstacle comes in the path of the waves generated, they are
+
+reflected back from an obstacle and thus this information is passed to the brain of our Robot,
+
+Arduino. Now, Arduino controls the behavior of the motor based on the signals reflected.
